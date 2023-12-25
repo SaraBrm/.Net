@@ -1,0 +1,28 @@
+﻿@model MVC.Models.Entities.Users
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    Edit Profile
+    <br />
+
+    Name:
+    <input type="text" value="@Model.Name" />
+    <br />
+    LastName:
+    <input type="text" value="@Model.LastName" />
+    <br />
+    Email:
+    <input type="text" value="@Model.Email" />
+    <br />
+    <button>Save</button>
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿@model MVC.Models.Entities.Account
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ثبت نام کاربر جدید</h1>
+
+
+<form asp-action="register" method="post">
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+    <br />
+
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+
+    <label asp-for="Age"></label>
+    <input asp-for="Age" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+    <br />
+    <label asp-for="Mobile"></label>
+    <input asp-for="Mobile" />
+    <span asp-validation-for="Mobile" class="text-danger"></span>
+    <br />
+
+
+
+    <button>تکمیل ثبت نام</button>
+</form>
+
+
+@section Scripts
+    {
+    @{
+        Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
