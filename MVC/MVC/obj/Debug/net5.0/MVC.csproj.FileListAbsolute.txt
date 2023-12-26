@@ -129,3 +129,6 @@ E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\ScaffoldingAccount\Details
 E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\ScaffoldingAccount\Create.cshtml.g.cs
 E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\ScaffoldingAccount\Edit.cshtml.g.cs
 E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\ScaffoldingAccount\Delete.cshtml.g.cs
+E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\Home\CheckAuthorize.cshtml.g.cs
+E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+E:\Practice\.Net\MVC\MVC\obj\Debug\net5.0\Razor\Views\Home\Index2.cshtml.g.cs

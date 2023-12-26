@@ -1,11 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MVC.Models;
-using System;
-using System.Collections.Generic;
+using MVC.Models.ViewModels;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace MVC.Controllers
 {
@@ -20,8 +17,66 @@ namespace MVC.Controllers
 
         public IActionResult Index()
         {
+            ViewData["SiteName"] = "frazbook";
+
+            ViewData["Product"] = new ProductViewModel
+            {
+                Id = 1020,
+                Name = "Asp.Net Core 5.0",
+                Price = 890000,
+            };
+
+            ViewBag.name = "sra";
+
+
+            TempData["age"] = 23;
             return View();
         }
+
+        public IActionResult Index2()
+        {
+            var age = TempData["age"];
+            TempData.Keep();
+            string name = ViewBag.name;
+            return View();
+        }
+
+        public IActionResult Index3()
+        {
+            var age = TempData["age"];
+
+            return View();
+        }
+
+        public IActionResult SearchKey(string searchKey)
+        {
+            //string searchKey = HttpContext.Request.Query["searchKey"].ToString();
+            return View();
+        }
+
+        public IActionResult CheckAuthorize([FromHeader] string AuthorizeKey)
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Register(RegisterUserViewModel model)
+        {
+            return View();
+        }
+
+        //[HttpPost]
+        //public IActionResult Register([FromBody] RegisterUserViewModel model)
+        //{
+        //    return View();
+        //}
 
         public IActionResult Contact()
         {
