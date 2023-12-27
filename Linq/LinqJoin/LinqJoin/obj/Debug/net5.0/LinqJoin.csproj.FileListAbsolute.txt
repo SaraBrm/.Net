@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\bin\Debug\net5.0\LinqJoin.exe
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\bin\Debug\net5.0\LinqJoin.deps.json
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\bin\Debug\net5.0\LinqJoin.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\bin\Debug\net5.0\LinqJoin.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\bin\Debug\net5.0\LinqJoin.dll
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\bin\Debug\net5.0\LinqJoin.pdb
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.dll
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\refint\LinqJoin.dll
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.pdb
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\LinqJoin.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqJoin\LinqJoin\obj\Debug\net5.0\ref\LinqJoin.dll

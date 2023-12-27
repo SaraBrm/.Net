@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\bin\Debug\net5.0\LinqGrouping.exe
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\bin\Debug\net5.0\LinqGrouping.deps.json
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\bin\Debug\net5.0\LinqGrouping.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\bin\Debug\net5.0\LinqGrouping.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\bin\Debug\net5.0\LinqGrouping.dll
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\bin\Debug\net5.0\LinqGrouping.pdb
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.dll
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\refint\LinqGrouping.dll
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.pdb
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\LinqGrouping.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqGrouping\LinqGrouping\obj\Debug\net5.0\ref\LinqGrouping.dll

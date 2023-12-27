@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\bin\Debug\net5.0\LinqSorting.exe
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\bin\Debug\net5.0\LinqSorting.deps.json
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\bin\Debug\net5.0\LinqSorting.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\bin\Debug\net5.0\LinqSorting.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\bin\Debug\net5.0\LinqSorting.dll
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\bin\Debug\net5.0\LinqSorting.pdb
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.dll
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\refint\LinqSorting.dll
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.pdb
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\LinqSorting.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqSorting\LinqSorting\obj\Debug\net5.0\ref\LinqSorting.dll

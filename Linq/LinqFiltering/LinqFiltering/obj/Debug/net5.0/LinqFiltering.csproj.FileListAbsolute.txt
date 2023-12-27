@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\bin\Debug\net5.0\LinqFiltering.exe
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\bin\Debug\net5.0\LinqFiltering.deps.json
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\bin\Debug\net5.0\LinqFiltering.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\bin\Debug\net5.0\LinqFiltering.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\bin\Debug\net5.0\LinqFiltering.dll
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\bin\Debug\net5.0\LinqFiltering.pdb
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.dll
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\refint\LinqFiltering.dll
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.pdb
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\LinqFiltering.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqFiltering\LinqFiltering\obj\Debug\net5.0\ref\LinqFiltering.dll
