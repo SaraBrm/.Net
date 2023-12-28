@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\bin\Debug\net5.0\LinqPartitioning.exe
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\bin\Debug\net5.0\LinqPartitioning.deps.json
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\bin\Debug\net5.0\LinqPartitioning.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\bin\Debug\net5.0\LinqPartitioning.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\bin\Debug\net5.0\LinqPartitioning.dll
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\bin\Debug\net5.0\LinqPartitioning.pdb
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.dll
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\refint\LinqPartitioning.dll
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.pdb
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\LinqPartitioning.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqPartitioning\LinqPartitioning\obj\Debug\net5.0\ref\LinqPartitioning.dll

@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\bin\Debug\net5.0\LinqAggregation.exe
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\bin\Debug\net5.0\LinqAggregation.deps.json
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\bin\Debug\net5.0\LinqAggregation.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\bin\Debug\net5.0\LinqAggregation.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\bin\Debug\net5.0\LinqAggregation.dll
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\bin\Debug\net5.0\LinqAggregation.pdb
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.dll
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\refint\LinqAggregation.dll
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.pdb
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\LinqAggregation.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqAggregation\LinqAggregation\obj\Debug\net5.0\ref\LinqAggregation.dll

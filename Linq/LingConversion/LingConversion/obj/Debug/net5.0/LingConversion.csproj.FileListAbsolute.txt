@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LingConversion\LingConversion\bin\Debug\net5.0\LingConversion.exe
+E:\Practice\.Net\Linq\LingConversion\LingConversion\bin\Debug\net5.0\LingConversion.deps.json
+E:\Practice\.Net\Linq\LingConversion\LingConversion\bin\Debug\net5.0\LingConversion.runtimeconfig.json
+E:\Practice\.Net\Linq\LingConversion\LingConversion\bin\Debug\net5.0\LingConversion.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LingConversion\LingConversion\bin\Debug\net5.0\LingConversion.dll
+E:\Practice\.Net\Linq\LingConversion\LingConversion\bin\Debug\net5.0\LingConversion.pdb
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.dll
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\refint\LingConversion.dll
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.pdb
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\LingConversion.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LingConversion\LingConversion\obj\Debug\net5.0\ref\LingConversion.dll

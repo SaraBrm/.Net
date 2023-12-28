@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\bin\Debug\net5.0\LinqQuantifiers.exe
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\bin\Debug\net5.0\LinqQuantifiers.deps.json
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\bin\Debug\net5.0\LinqQuantifiers.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\bin\Debug\net5.0\LinqQuantifiers.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\bin\Debug\net5.0\LinqQuantifiers.dll
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\bin\Debug\net5.0\LinqQuantifiers.pdb
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.dll
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\refint\LinqQuantifiers.dll
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.pdb
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\LinqQuantifiers.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqQuantifiers\LinqQuantifiers\obj\Debug\net5.0\ref\LinqQuantifiers.dll

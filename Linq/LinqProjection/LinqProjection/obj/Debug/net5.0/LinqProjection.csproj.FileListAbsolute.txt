@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\bin\Debug\net5.0\LinqProjection.exe
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\bin\Debug\net5.0\LinqProjection.deps.json
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\bin\Debug\net5.0\LinqProjection.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\bin\Debug\net5.0\LinqProjection.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\bin\Debug\net5.0\LinqProjection.dll
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\bin\Debug\net5.0\LinqProjection.pdb
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.dll
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\refint\LinqProjection.dll
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.pdb
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\LinqProjection.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqProjection\LinqProjection\obj\Debug\net5.0\ref\LinqProjection.dll

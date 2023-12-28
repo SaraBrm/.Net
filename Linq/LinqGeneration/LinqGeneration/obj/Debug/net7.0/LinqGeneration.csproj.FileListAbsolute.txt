@@ -1,0 +1,14 @@
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\bin\Debug\net7.0\LinqGeneration.exe
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\bin\Debug\net7.0\LinqGeneration.deps.json
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\bin\Debug\net7.0\LinqGeneration.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\bin\Debug\net7.0\LinqGeneration.dll
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\bin\Debug\net7.0\LinqGeneration.pdb
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.dll
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\refint\LinqGeneration.dll
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.pdb
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\LinqGeneration.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqGeneration\LinqGeneration\obj\Debug\net7.0\ref\LinqGeneration.dll

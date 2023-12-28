@@ -1,0 +1,15 @@
+E:\Practice\.Net\Linq\LinqSet\LinqSet\bin\Debug\net5.0\LinqSet.exe
+E:\Practice\.Net\Linq\LinqSet\LinqSet\bin\Debug\net5.0\LinqSet.deps.json
+E:\Practice\.Net\Linq\LinqSet\LinqSet\bin\Debug\net5.0\LinqSet.runtimeconfig.json
+E:\Practice\.Net\Linq\LinqSet\LinqSet\bin\Debug\net5.0\LinqSet.runtimeconfig.dev.json
+E:\Practice\.Net\Linq\LinqSet\LinqSet\bin\Debug\net5.0\LinqSet.dll
+E:\Practice\.Net\Linq\LinqSet\LinqSet\bin\Debug\net5.0\LinqSet.pdb
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.AssemblyInfoInputs.cache
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.AssemblyInfo.cs
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.dll
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\refint\LinqSet.dll
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.pdb
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\LinqSet.genruntimeconfig.cache
+E:\Practice\.Net\Linq\LinqSet\LinqSet\obj\Debug\net5.0\ref\LinqSet.dll
