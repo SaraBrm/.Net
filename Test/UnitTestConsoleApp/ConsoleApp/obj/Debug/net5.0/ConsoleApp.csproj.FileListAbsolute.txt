@@ -1,0 +1,15 @@
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+E:\Practice\.Net\Test\UnitTestConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
