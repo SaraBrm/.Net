@@ -92,8 +92,8 @@ namespace WebApp_BugetoTest
 
             controller.SendMessage("Salam", 1, Messagetype.Email);
 
-            //moq.Verify(p => p.Sms(It.IsAny<string>(), It.IsAny<int>()),"اس ام اس ارسال نشد");
-            moq.Verify(p => p.Email(It.IsAny<string>(), It.IsAny<int>()));
+            moq.Verify(p => p.Sms(It.IsAny<string>(), It.IsAny<int>()), "اس ام اس ارسال نشد");
+            //moq.Verify(p => p.Email(It.IsAny<string>(), It.IsAny<int>()));
         }
     }
 }

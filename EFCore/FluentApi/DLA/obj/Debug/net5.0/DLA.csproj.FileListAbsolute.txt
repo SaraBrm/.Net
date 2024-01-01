@@ -1,0 +1,4 @@
+E:\Practice\.Net\EFCore\FluentApi\DLA\obj\Debug\net5.0\DLA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\EFCore\FluentApi\DLA\obj\Debug\net5.0\DLA.AssemblyInfoInputs.cache
+E:\Practice\.Net\EFCore\FluentApi\DLA\obj\Debug\net5.0\DLA.AssemblyInfo.cs
+E:\Practice\.Net\EFCore\FluentApi\DLA\obj\Debug\net5.0\DLA.csproj.CoreCompileInputs.cache
