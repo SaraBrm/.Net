@@ -1,0 +1,4 @@
+E:\Practice\.Net\EFCore\EFCore\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\EFCore\EFCore\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\Practice\.Net\EFCore\EFCore\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\Practice\.Net\EFCore\EFCore\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache

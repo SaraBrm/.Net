@@ -1,0 +1,15 @@
+E:\Practice\.Net\EFCore\Relationships\DAL\bin\Debug\net5.0\DAL.exe
+E:\Practice\.Net\EFCore\Relationships\DAL\bin\Debug\net5.0\DAL.deps.json
+E:\Practice\.Net\EFCore\Relationships\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+E:\Practice\.Net\EFCore\Relationships\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+E:\Practice\.Net\EFCore\Relationships\DAL\bin\Debug\net5.0\DAL.dll
+E:\Practice\.Net\EFCore\Relationships\DAL\bin\Debug\net5.0\DAL.pdb
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.dll
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\refint\DAL.dll
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.pdb
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+E:\Practice\.Net\EFCore\Relationships\DAL\obj\Debug\net5.0\ref\DAL.dll
