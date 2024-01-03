@@ -1,4 +1,6 @@
 ﻿using DLA;
+using Entities.BackingFields;
+using Entities.GeneratedValues;
 using Entities.Inheritance;
 using System;
 using System.Linq;
@@ -43,6 +45,41 @@ namespace Ui
 
             //var teacher = context.Teachers.FirstOrDefault();
             //var teacherList = context.Teachers.ToList();
+
+            //Blog blog = new Blog();
+            //blog.SetUrl("https://www.Google.com/");
+            //context.Add(blog);
+            //context.SaveChanges();
+
+
+            Order order= new Order()
+            {
+                OrderStatus=OrderStatus.Delivered,
+            };
+            context.Orders.Add(order);
+            context.SaveChanges();
+ 
+            User user = new User()
+            {
+                Email= "sb@gmail.com",
+                Home=new Address
+                {
+                    City= "test",
+                    Street="test",
+                    Alley= "test",
+                    Plaque="2"
+                },
+                Workplace= new Address
+                {
+                    City = "test",
+                    Street = "test",
+                    Alley = "test",
+                    Plaque = "3"
+                }               
+            };
+            context.Users.Add(user);
+            context.SaveChanges();
+            var _user=context.Users.FirstOrDefault();
 
             Console.WriteLine("Hello World!");
         }

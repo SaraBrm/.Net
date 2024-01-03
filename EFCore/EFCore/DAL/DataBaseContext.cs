@@ -1,8 +1,10 @@
-﻿
+﻿using Entities.BackingFields;
 using Entities.GeneratedValues;
 using Entities.Inheritance;
 using Entities.Sequence;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using System;
 
 namespace DLA
 {
@@ -16,6 +18,9 @@ namespace DLA
         public DbSet<Person> People { get; set; }
 
         public DbSet<Product> Products { get; set; }
+
+        public DbSet<Blog> Blogs { get; set; }
+
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -70,6 +75,74 @@ namespace DLA
             modelBuilder.Entity<Product>()
                 .Property(p => p.ProductNumber)
                 .HasDefaultValueSql("SELECT Next Value For common.ProductNumber");
+
+
+            //Backing Fields******************
+            modelBuilder.Entity<Blog>()
+                .Property(p => p.Url)
+                .HasField("_Url");
+
+
+            //Value Conversions******************
+            modelBuilder.Entity<Order>()
+                .Property(p => p.OrderStatus)
+                .HasConversion(p => p.ToString(), p => (OrderStatus)Enum.Parse(typeof(OrderStatus), p));
+
+            //Microsoft.EntityFrameworkCore.Storage.ValueConversion
+            var boolToString = new BoolToStringConverter("No", "Yes");
+            modelBuilder.Entity<Order>()
+                .Property(p => p.Done)
+                .HasConversion(boolToString);
+
+            modelBuilder.Entity<User>()
+                .Property(p => p.Email)
+                .HasConversion(p => Base64Encode(p), p => Base64Decode(p));
+
+
+            //DataSeeding******************
+            modelBuilder.Entity<User>()
+                .HasData(new User
+                {
+                    Id = 1,
+                    Email = "sa@gmail.com"
+                });
+
+            modelBuilder.Entity<Order>()
+                .HasData(new Order
+                {
+                    Id = 1,
+                    OrderStatus = OrderStatus.Processing,
+                    UserId = 1
+                });
+
+            modelBuilder.Entity<Order>()
+                .HasData(new Order
+                {
+                    Id = 2,
+                    OrderStatus = OrderStatus.Sent,
+                    UserId = 1
+                });
+
+
+            //Owned Entity Types******************
+            modelBuilder.Entity<User>()
+                .OwnsOne(p => p.Home);
+
+            modelBuilder.Entity<User>()
+                .OwnsOne(p => p.Workplace);
+
+
+        }
+
+        public static string Base64Encode(string plainText)
+        {
+            var plainTextBytes = System.Text.Encoding.UTF8.GetBytes(plainText);
+            return System.Convert.ToBase64String(plainTextBytes);
+        }
+        public static string Base64Decode(string base64EncodeData)
+        {
+            var base64EncodedBytes = System.Convert.FromBase64String(base64EncodeData);
+            return System.Text.Encoding.UTF8.GetString(base64EncodedBytes);
         }
 
     }
