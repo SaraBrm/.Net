@@ -1,0 +1,15 @@
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\bin\Debug\net5.0\Application.deps.json
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\bin\Debug\net5.0\Application.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\bin\Debug\net5.0\Application.pdb
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\bin\Debug\net5.0\Entities.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\bin\Debug\net5.0\Entities.pdb
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\refint\Application.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\Application.pdb
+E:\Practice\.Net\EFCore\EFCore_Clean\Application\obj\Debug\net5.0\ref\Application.dll

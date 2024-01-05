@@ -1,0 +1,11 @@
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\bin\Debug\net5.0\Entities.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\bin\Debug\net5.0\Entities.pdb
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\Entities.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\refint\Entities.dll
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\Entities.pdb
+E:\Practice\.Net\EFCore\EFCore_Clean\Entities\obj\Debug\net5.0\ref\Entities.dll
