@@ -1,0 +1,12 @@
+E:\Practice\.Net\Dapper\DapperApp\Repository\bin\Debug\net5.0\Repository.deps.json
+E:\Practice\.Net\Dapper\DapperApp\Repository\bin\Debug\net5.0\Repository.dll
+E:\Practice\.Net\Dapper\DapperApp\Repository\bin\Debug\net5.0\Repository.pdb
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.dll
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\refint\Repository.dll
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\Repository.pdb
+E:\Practice\.Net\Dapper\DapperApp\Repository\obj\Debug\net5.0\ref\Repository.dll
