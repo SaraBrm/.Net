@@ -1,0 +1,90 @@
+﻿@model ModelBinding.Models.Article
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Article</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label class="control-label">  Name   </label>
+                <input name="Name" type="text" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">  upload file   </label>
+                <input name="file" type="file" class="form-control" />
+            </div>
+            <hr />
+
+            <div class="form-group">
+                <label class="control-label"> test lable</label>
+                <input name="ch" type="checkbox" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"> test lable</label>
+                <input name="ch" type="checkbox" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"> test lable</label>
+                <input name="ch" type="checkbox" class="form-control" />
+            </div>
+            <hr />
+
+            @for (int i = 0; i < 5; i++)
+            {
+                <div class="form-group">
+                    <label class="control-label"> test lable</label>
+                    <input name="dic[@i]" type="checkbox" class="form-control" />
+                </div>
+            }
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+
+
+
+        @* <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Id</label>
+                <input name="Id" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Title</label>
+                <input name="article.Title" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Description</label>
+                <input name="article.Description" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Picture</label>
+                <input name="article.Detail.Picture" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form> *@
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
