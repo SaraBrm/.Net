@@ -1,0 +1,90 @@
+﻿
+@model TeamViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<select asp-for="Team" asp-items="Model.Teams" class="form-control">
+    <option value="">انتخاب نشده</option>
+</select>
+
+<br />
+<select asp-for="Team" asp-items="Model.TeamOptionGroup" class="form-control">
+
+</select>
+
+<br />
+<select asp-for="TeamMultiple" asp-items="Model.TeamMultipleItem" class="form-control">
+
+</select>
+
+<br />
+<select asp-for="TeamEnum" asp-items="Html.GetEnumSelectList<TeamEnum>()" class="form-control">
+</select>
+
+
+
+
+@* @model User
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+<hr />
+<form asp-controller="Home" asp-action="Index" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <br />
+
+    <label asp-for="LastName"></label>
+    <input asp-for="LastName" />
+    <br />
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+
+    <br />
+
+    <label asp-for="Gender"></label>
+    <input asp-for="Gender" />
+    <br />
+
+    <label asp-for="Age"></label>
+    <input asp-for="Age" />
+    <span asp-validation-for="Age"></span>
+    <br />
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+    <br />
+
+    <label asp-for="WebSite"></label>
+    <input asp-for="WebSite" />
+    <br />
+
+    <label asp-for="Address.HomeAddress"></label>
+    <input asp-for="Address.HomeAddress" />
+    <br />
+
+    <label asp-for="Address.WorkAddress"></label>
+    <input asp-for="Address.WorkAddress" />
+    <br />
+    <label asp-for="Description"></label>
+    <textarea asp-for="Description"></textarea>
+
+    <input type="submit" value="Send Data" />
+</form> *@
+
+@*<form  asp-route="indexRoute"method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+</form>*@
+
+@*<form  method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+
+    <button   asp-route="indexRoute"> Send Data</button>
+</form>*@
+@* <hr /> *@
