@@ -1,0 +1,15 @@
+﻿@page "{id:int?}/{name:alpha:minlength(3):maxlength(10)}/{id2:min(100)}"
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<h2> id= @RouteData.Values["id"]</h2>
+<h2> Name= @RouteData.Values["name"]</h2>
+<h2> Name From Model= @Model.Name</h2>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
