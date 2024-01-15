@@ -1,0 +1,15 @@
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\bin\Debug\net5.0\DI_CreateIocContainer.exe
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\bin\Debug\net5.0\DI_CreateIocContainer.deps.json
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\bin\Debug\net5.0\DI_CreateIocContainer.runtimeconfig.json
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\bin\Debug\net5.0\DI_CreateIocContainer.runtimeconfig.dev.json
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\bin\Debug\net5.0\DI_CreateIocContainer.dll
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\bin\Debug\net5.0\DI_CreateIocContainer.pdb
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.AssemblyInfoInputs.cache
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.AssemblyInfo.cs
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.dll
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\refint\DI_CreateIocContainer.dll
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.pdb
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\DI_CreateIocContainer.genruntimeconfig.cache
+E:\Practice\.Net\DI\DI_CreateIocContainer\DI_CreateIocContainer\obj\Debug\net5.0\ref\DI_CreateIocContainer.dll
