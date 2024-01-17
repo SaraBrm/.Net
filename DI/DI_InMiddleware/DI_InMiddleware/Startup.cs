@@ -32,6 +32,19 @@ namespace DI_InMiddleware
             services.AddScoped<INotificationService, SmsNotificationService>();
             services.AddScoped<INotificationService, SiteNotificationService>();
 
+            //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, EmailNotificationService>());
+            //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>());
+            //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, SiteNotificationService>());
+            //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>());
+
+            services.TryAddEnumerable(new ServiceDescriptor[]
+            {
+                ServiceDescriptor.Scoped<INotificationService, EmailNotificationService>(),
+                ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>(),
+                ServiceDescriptor.Scoped<INotificationService, SiteNotificationService>(),
+                ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>()
+            });
+
             //services.TryAddScoped<INotificationService, SiteNotificationService>();
             //services.Replace(ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>());
             //services.RemoveAll<INotificationService>();
