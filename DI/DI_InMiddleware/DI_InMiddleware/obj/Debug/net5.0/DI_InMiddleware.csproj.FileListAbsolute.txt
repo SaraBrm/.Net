@@ -41,3 +41,4 @@ E:\Practice\.Net\DI\DI_InMiddleware\DI_InMiddleware\obj\Debug\net5.0\DI_InMiddle
 E:\Practice\.Net\DI\DI_InMiddleware\DI_InMiddleware\obj\Debug\net5.0\DI_InMiddleware.genruntimeconfig.cache
 E:\Practice\.Net\DI\DI_InMiddleware\DI_InMiddleware\obj\Debug\net5.0\ref\DI_InMiddleware.dll
 E:\Practice\.Net\DI\DI_InMiddleware\DI_InMiddleware\obj\Debug\net5.0\DI_InMiddleware.csproj.CopyComplete
+E:\Practice\.Net\DI\DI_InMiddleware\DI_InMiddleware\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs

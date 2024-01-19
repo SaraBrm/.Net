@@ -1,5 +1,6 @@
 using DI_InMiddleware.Interface;
 using DI_InMiddleware.Middlewares;
+using DI_InMiddleware.Models;
 using DI_InMiddleware.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,26 +29,50 @@ namespace DI_InMiddleware
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddScoped<INotificationService, EmailNotificationService>();
-            services.AddScoped<INotificationService, SmsNotificationService>();
-            services.AddScoped<INotificationService, SiteNotificationService>();
+
+            services.AddAppConfig(Configuration)
+                .AddBusinessService();
+
 
             //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, EmailNotificationService>());
             //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>());
             //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, SiteNotificationService>());
             //services.TryAddEnumerable(ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>());
 
-            services.TryAddEnumerable(new ServiceDescriptor[]
-            {
-                ServiceDescriptor.Scoped<INotificationService, EmailNotificationService>(),
-                ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>(),
-                ServiceDescriptor.Scoped<INotificationService, SiteNotificationService>(),
-                ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>()
-            });
 
             //services.TryAddScoped<INotificationService, SiteNotificationService>();
             //services.Replace(ServiceDescriptor.Scoped<INotificationService, SmsNotificationService>());
             //services.RemoveAll<INotificationService>();
+
+
+            //Factory
+            services.AddScoped<IuploadServer>(p =>
+            {
+                string ip = Configuration.GetSection("Ip").Value;
+                string username = Configuration.GetSection("UserName").Value;
+                string password = Configuration.GetSection("Password").Value;
+                return new UploadToServer(ip, username, password, "");
+            });
+
+            services.AddScoped<TelegramShare>();
+            services.AddScoped<InstagramShare>();
+
+            services.AddScoped<IShareService>(p =>
+            {
+                string shareValue = Configuration.GetSection("Share").Value;
+
+                if (shareValue == "Telegram")
+                {
+                    return new TelegramShare();
+                }
+                else
+                {
+                    return new InstagramShare();
+                }
+            });
+
+            services.AddScoped<IProductRepository, ProductRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

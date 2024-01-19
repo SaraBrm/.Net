@@ -1,8 +1,8 @@
 ﻿using DI_InMiddleware.Interface;
 using DI_InMiddleware.Models;
+using DI_InMiddleware.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 
@@ -13,13 +13,29 @@ namespace DI_InMiddleware.Controllers
         private readonly IEnumerable<INotificationService> _notificationService;
         private readonly ILogger<HomeController> _logger;
         //private readonly INotificationService _notificationService;
+        private readonly IuploadServer _uploadToServer;
+        private readonly IShareService _shareService;
 
         public HomeController(ILogger<HomeController> logger, IEnumerable<INotificationService> notificationService
-           /* , INotificationService notificationService*/)
+           /* , INotificationService notificationService*/
+           , IuploadServer iuploadServer, IShareService shareService)
         {
             _logger = logger;
             _notificationService = notificationService;
+            _uploadToServer = iuploadServer;
+            _shareService = shareService;
         }
+
+        public IActionResult Upload()
+        {
+            _uploadToServer.Upload(null);
+            return Ok(true);
+        }
+        public IActionResult Share()
+        {
+            return Ok(_shareService.Execute());
+        }
+
 
         public IActionResult Index()
         {
