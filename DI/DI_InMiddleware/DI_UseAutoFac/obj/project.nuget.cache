@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0DJYbKxTIqIAY3GJVdMoy58LVTIFXDPD0TwgZoKG+rg+nXnXP0vpbRtihC7YnBGfQXxSqGDzd/0LzfhZHyEruA==",
+  "success": true,
+  "projectFilePath": "E:\\Practice\\.Net\\DI\\DI_InMiddleware\\DI_UseAutoFac\\DI_UseAutoFac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NooraGP\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\NooraGP\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\NooraGP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\NooraGP\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\NooraGP\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\NooraGP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
