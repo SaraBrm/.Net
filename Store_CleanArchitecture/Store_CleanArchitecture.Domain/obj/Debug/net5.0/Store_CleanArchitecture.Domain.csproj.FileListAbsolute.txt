@@ -1,0 +1,11 @@
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\bin\Debug\net5.0\Store_CleanArchitecture.Domain.deps.json
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\bin\Debug\net5.0\Store_CleanArchitecture.Domain.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\bin\Debug\net5.0\Store_CleanArchitecture.Domain.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\Store_CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\Store_CleanArchitecture.Domain.AssemblyInfoInputs.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\Store_CleanArchitecture.Domain.AssemblyInfo.cs
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\Store_CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\Store_CleanArchitecture.Domain.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\refint\Store_CleanArchitecture.Domain.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\Store_CleanArchitecture.Domain.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Domain\obj\Debug\net5.0\ref\Store_CleanArchitecture.Domain.dll

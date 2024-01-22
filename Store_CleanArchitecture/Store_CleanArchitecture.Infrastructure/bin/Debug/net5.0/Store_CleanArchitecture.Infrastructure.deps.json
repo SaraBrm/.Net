@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Store_CleanArchitecture.Infrastructure/1.0.0": {
+        "runtime": {
+          "Store_CleanArchitecture.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store_CleanArchitecture.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

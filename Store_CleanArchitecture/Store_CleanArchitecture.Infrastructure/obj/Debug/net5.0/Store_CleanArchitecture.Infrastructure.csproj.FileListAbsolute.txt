@@ -1,0 +1,11 @@
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\bin\Debug\net5.0\Store_CleanArchitecture.Infrastructure.deps.json
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\bin\Debug\net5.0\Store_CleanArchitecture.Infrastructure.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\bin\Debug\net5.0\Store_CleanArchitecture.Infrastructure.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\Store_CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\Store_CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\Store_CleanArchitecture.Infrastructure.AssemblyInfo.cs
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\Store_CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\Store_CleanArchitecture.Infrastructure.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\refint\Store_CleanArchitecture.Infrastructure.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\Store_CleanArchitecture.Infrastructure.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Infrastructure\obj\Debug\net5.0\ref\Store_CleanArchitecture.Infrastructure.dll

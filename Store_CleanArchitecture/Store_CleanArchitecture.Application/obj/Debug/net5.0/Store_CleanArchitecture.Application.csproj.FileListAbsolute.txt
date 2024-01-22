@@ -1,0 +1,15 @@
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Application.deps.json
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Application.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Application.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Domain.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Domain.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.csproj.AssemblyReference.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.AssemblyInfoInputs.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.AssemblyInfo.cs
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.csproj.CopyComplete
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\refint\Store_CleanArchitecture.Application.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.pdb
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\ref\Store_CleanArchitecture.Application.dll
