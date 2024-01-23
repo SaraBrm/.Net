@@ -13,3 +13,5 @@ E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\refint\Store_CleanArchitecture.Application.dll
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\Store_CleanArchitecture.Application.pdb
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\obj\Debug\net5.0\ref\Store_CleanArchitecture.Application.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Common.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Application\bin\Debug\net5.0\Store_CleanArchitecture.Common.pdb

@@ -1,16 +1,17 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Store_CleanArchitecture.Application.Interfaces.Contexts;
+using Store_CleanArchitecture.Application.Services.Users.Commands.EditUser;
+using Store_CleanArchitecture.Application.Services.Users.Commands.RegisterUser;
+using Store_CleanArchitecture.Application.Services.Users.Commands.RemoveUser;
+using Store_CleanArchitecture.Application.Services.Users.Commands.UserStatusChange;
+using Store_CleanArchitecture.Application.Services.Users.Queries.GetRoles;
+using Store_CleanArchitecture.Application.Services.Users.Queries.GetUsers;
 using Store_CleanArchitecture.Persistence.Contexts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace EndPoint.Site
 {
@@ -29,6 +30,12 @@ namespace EndPoint.Site
             services.AddControllersWithViews();
 
             services.AddScoped<IDataBaseContext, DataBaseContext>();
+            services.AddScoped<IGetUsersService, GetUsersService>();
+            services.AddScoped<IGetRolesService, GetRolesService>();
+            services.AddScoped<IRegisterUserService, RegisterUserService>();
+            services.AddScoped<IRemoveUserService, RemoveUserService>();
+            services.AddScoped<IUserSatusChangeService, UserSatusChangeService>();
+            services.AddScoped<IEditUserService, EditUserService>();
 
             string contectionString = Configuration["contectionString"];
             services.AddEntityFrameworkSqlServer()

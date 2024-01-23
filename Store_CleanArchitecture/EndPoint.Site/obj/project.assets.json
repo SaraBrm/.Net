@@ -2326,6 +2326,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Store_CleanArchitecture.Common": "1.0.0",
           "Store_CleanArchitecture.Domain": "1.0.0"
         },
         "compile": {
@@ -2333,6 +2334,16 @@
         },
         "runtime": {
           "bin/placeholder/Store_CleanArchitecture.Application.dll": {}
+        }
+      },
+      "Store_CleanArchitecture.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Store_CleanArchitecture.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Store_CleanArchitecture.Common.dll": {}
         }
       },
       "Store_CleanArchitecture.Domain/1.0.0": {
@@ -7494,6 +7505,11 @@
       "type": "project",
       "path": "../Store_CleanArchitecture.Application/Store_CleanArchitecture.Application.csproj",
       "msbuildProject": "../Store_CleanArchitecture.Application/Store_CleanArchitecture.Application.csproj"
+    },
+    "Store_CleanArchitecture.Common/1.0.0": {
+      "type": "project",
+      "path": "../Store_CleanArchitecture.Common/Store_CleanArchitecture.Common.csproj",
+      "msbuildProject": "../Store_CleanArchitecture.Common/Store_CleanArchitecture.Common.csproj"
     },
     "Store_CleanArchitecture.Domain/1.0.0": {
       "type": "project",

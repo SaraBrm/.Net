@@ -1046,10 +1046,16 @@
       "Store_CleanArchitecture.Application/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Store_CleanArchitecture.Common": "1.0.0",
           "Store_CleanArchitecture.Domain": "1.0.0"
         },
         "runtime": {
           "Store_CleanArchitecture.Application.dll": {}
+        }
+      },
+      "Store_CleanArchitecture.Common/1.0.0": {
+        "runtime": {
+          "Store_CleanArchitecture.Common.dll": {}
         }
       },
       "Store_CleanArchitecture.Domain/1.0.0": {
@@ -1724,6 +1730,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Store_CleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Store_CleanArchitecture.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

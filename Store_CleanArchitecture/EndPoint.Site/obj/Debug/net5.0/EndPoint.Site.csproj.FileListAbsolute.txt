@@ -156,3 +156,6 @@ E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_Cl
 E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Persistence.pdb
 E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Application.pdb
 E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Domain.pdb
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Common.dll
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Common.pdb
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs

@@ -15,3 +15,5 @@ E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Persistence\obj
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Persistence\obj\Debug\net5.0\refint\Store_CleanArchitecture.Persistence.dll
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Persistence\obj\Debug\net5.0\Store_CleanArchitecture.Persistence.pdb
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Persistence\obj\Debug\net5.0\ref\Store_CleanArchitecture.Persistence.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Persistence\bin\Debug\net5.0\Store_CleanArchitecture.Common.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Persistence\bin\Debug\net5.0\Store_CleanArchitecture.Common.pdb
