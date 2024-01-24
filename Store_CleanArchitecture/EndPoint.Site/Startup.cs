@@ -1,17 +1,23 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Store_CleanArchitecture.Application.Interfaces.Contexts;
+using Store_CleanArchitecture.Application.Interfaces.FacadPatterns;
+using Store_CleanArchitecture.Application.Services.Products.FacadPattern;
 using Store_CleanArchitecture.Application.Services.Users.Commands.EditUser;
 using Store_CleanArchitecture.Application.Services.Users.Commands.RegisterUser;
 using Store_CleanArchitecture.Application.Services.Users.Commands.RemoveUser;
+using Store_CleanArchitecture.Application.Services.Users.Commands.UserLogin;
 using Store_CleanArchitecture.Application.Services.Users.Commands.UserStatusChange;
 using Store_CleanArchitecture.Application.Services.Users.Queries.GetRoles;
 using Store_CleanArchitecture.Application.Services.Users.Queries.GetUsers;
 using Store_CleanArchitecture.Persistence.Contexts;
+using System;
 
 namespace EndPoint.Site
 {
@@ -29,6 +35,17 @@ namespace EndPoint.Site
         {
             services.AddControllersWithViews();
 
+            services.AddAuthentication(options =>
+            {
+                options.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                options.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+            }).AddCookie(options =>
+            {
+                options.LoginPath = new PathString("/");
+                options.ExpireTimeSpan = TimeSpan.FromMinutes(5.0);
+            });
+
             services.AddScoped<IDataBaseContext, DataBaseContext>();
             services.AddScoped<IGetUsersService, GetUsersService>();
             services.AddScoped<IGetRolesService, GetRolesService>();
@@ -36,6 +53,11 @@ namespace EndPoint.Site
             services.AddScoped<IRemoveUserService, RemoveUserService>();
             services.AddScoped<IUserSatusChangeService, UserSatusChangeService>();
             services.AddScoped<IEditUserService, EditUserService>();
+            services.AddScoped<IUserLoginService, UserLoginService>();
+
+            //FacadeInject
+            services.AddScoped<IProductFacad, ProductFacad>();
+
 
             string contectionString = Configuration["contectionString"];
             services.AddEntityFrameworkSqlServer()
@@ -61,6 +83,7 @@ namespace EndPoint.Site
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

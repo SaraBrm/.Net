@@ -51,7 +51,7 @@ namespace EndPoint.Site.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(string Email, string FullName, long RoleId, string Password, string RePassword)
+        public IActionResult Create(string Email, string FullName, long RoleId/*, string Password, string RePassword*/)
         {
             var result = _registerUserService.Execute(new RequestRegisterUserDto
             {

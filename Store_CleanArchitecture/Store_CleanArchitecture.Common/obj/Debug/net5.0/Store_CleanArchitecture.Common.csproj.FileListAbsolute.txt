@@ -9,3 +9,4 @@ E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Common\obj\Debu
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Common\obj\Debug\net5.0\refint\Store_CleanArchitecture.Common.dll
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Common\obj\Debug\net5.0\Store_CleanArchitecture.Common.pdb
 E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Common\obj\Debug\net5.0\ref\Store_CleanArchitecture.Common.dll
+E:\Practice\.Net\Store_CleanArchitecture\Store_CleanArchitecture.Common\obj\Debug\net5.0\Store_CleanArchitecture.Common.csproj.AssemblyReference.cache

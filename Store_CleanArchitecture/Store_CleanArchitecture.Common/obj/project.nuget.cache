@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UkokvKJIqoIF0hyk/ts050MK+8V3MY4jGoxKyma9nlh+ilgY+gTzEilsqdXlsAL2l6zuvLalDM9/1mbFMAXOSw==",
+  "dgSpecHash": "pF6qB3Q7l9dqFYItycstA3Wb4y1U5bmB5M+6cuvwpIksCoKnhxGffTrDZmJVzuZ7PYsTrmRvKTxQzdwZaehd1Q==",
   "success": true,
   "projectFilePath": "E:\\Practice\\.Net\\Store_CleanArchitecture\\Store_CleanArchitecture.Common\\Store_CleanArchitecture.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NooraGP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
+    "C:\\Users\\NooraGP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.17\\microsoft.aspnetcore.cryptography.keyderivation.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

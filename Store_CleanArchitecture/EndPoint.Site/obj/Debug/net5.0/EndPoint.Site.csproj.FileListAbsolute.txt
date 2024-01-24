@@ -159,3 +159,14 @@ E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_Cl
 E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Common.dll
 E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Store_CleanArchitecture.Common.pdb
 E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\Signin.cshtml.g.cs
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Views\Authentication\Signup.cshtml.g.cs
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\AddNewCategory.cshtml.g.cs
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\AddNewProduct.cshtml.g.cs
+E:\Practice\.Net\Store_CleanArchitecture\EndPoint.Site\obj\Debug\net5.0\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs

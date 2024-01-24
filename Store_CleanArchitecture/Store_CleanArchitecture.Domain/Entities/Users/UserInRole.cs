@@ -1,6 +1,8 @@
-﻿namespace Store_CleanArchitecture.Domain.Entities.Users
+﻿using Store_CleanArchitecture.Domain.Entities.Commons;
+
+namespace Store_CleanArchitecture.Domain.Entities.Users
 {
-    public class UserInRole
+    public class UserInRole : BaseEntity
     {
         public long Id { get; set; }
         public virtual User User { get; set; }
